@@ -1,0 +1,44 @@
+body{
+ background:#f8f9fd !important 
+}
+
+.login-wrap{
+  background-image:url("../bg/login_bg.png");
+  border-radius:10px
+}
+
+.login-wrap .icon{
+  width:27%;
+  height:80px;
+  background:#1089ff;
+  border-radius:50%;
+  font-size:30px;
+  margin:0 auto;
+  margin-bottom:10px
+}
+
+.login-wrap .icon span {
+  color:#fff
+}
+
+.login-wrap h3{
+  font-weight:300;
+  color:#fff
+}
+
+.form-control{
+  width:100%;
+  height:52px
+}
+
+.form-control:focus{
+  box-shadow:none !important
+}
+
+.si-section{
+  padding:7em 0
+}
+
+.section{
+  padding:8px;
+}
